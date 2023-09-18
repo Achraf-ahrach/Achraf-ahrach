@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **aahrach@student.1337.ma**
 
+- 📫 phone number **+212628224327**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/achraf_ahrach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achraf_ahrach" height="30" width="40" /></a>
