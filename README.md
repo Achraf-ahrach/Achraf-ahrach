@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **achrafahrach44@gmail.com**
 
-- 📫 phone number **+212628224327**
+- 📞 phone number **+212628224327**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
