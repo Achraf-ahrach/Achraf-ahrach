@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **How to code and pretty much everything else :D**
 
-- 📫 How to reach me **aahrach@student.1337.ma**
+- 📫 How to reach me **achrafahrach44@gmail.com**
 
 - 📫 phone number **+212628224327**
 
