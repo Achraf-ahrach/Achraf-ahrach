@@ -2,7 +2,7 @@
 <h2 align="center">A passionate developer</h2>
 <div align="center">
     <br clear="both">
-    <img src="https://badge.mediaplus.ma/darkblue/aahrach"  alt="aahrach's 42 stats"width="80%"/>
+    <img src="https://badge.mediaplus.ma/levi/aahrach"  alt="aahrach's 42 stats"width="80%"/>
     <br clear="both">
 </div>
 
